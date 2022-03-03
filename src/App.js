@@ -1,6 +1,14 @@
+import Header from './components/Header'
+import Footer from './components/Footer'
 function App() {
   return (
-    <div>hello from react!!!</div>
+    <div>
+      <Header />
+      this is my dunkin donuts app
+     <Footer />
+     <Footer />
+     <Footer />
+    </div>
   );
 }
 
